@@ -247,6 +247,6 @@ while True:
 
 ## Output
 
-
+![Output](Kode&Output/Outputt.png)
 
 
